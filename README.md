@@ -1,1 +1,2 @@
 # wordListCreator
+##How to use:
